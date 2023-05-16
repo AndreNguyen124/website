@@ -114,7 +114,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [languages.en]
         languageName     = "English"
         languageCode     = "en-us"
-        contentDir       = "content/en"
+        contentDir       = "content"
         weight           = 0
         title            = "Introduction"
         [languages.en.params]
@@ -124,7 +124,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [languages.es]
         languageName     = "Español"
         languageCode     = "es"
-        contentDir       = "content/es"
+        contentDir       = "content"
         weight           = 1
         title            = "Introducción"
         [languages.es.params]
@@ -134,7 +134,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [languages.de]
         languageName     = "Deutsch"
         languageCode     = "de"
-        contentDir       = "content/de"
+        contentDir       = "content"
         weight           = 2
         title            = "Vorstellung"
         [languages.de.params]
