@@ -66,11 +66,11 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
 
     [[params.social]]
-        url = "mailto:youremail@email.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:nguyen.andre.tu@gmail.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
     [[params.social]]
-        url   = "https://dev.to/"
+        url   = "https://dev.to/anguyen"
         icon  = "dev" # icon name without the 'fa-'
         icon_pack = "fab"
 
