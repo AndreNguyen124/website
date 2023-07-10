@@ -4,14 +4,15 @@ image: "profile.jpg"
 weight: 8
 ---
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+<!-- This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io). -->
+
+I initially began my journey as a biology major at Utah State University. I was a lab assistant working on identifying PD-L1 in bovine placentas. I love research and the intersection between biological systems and technology. After publishing a paper on my research, I decided that computer science was more applicable to my skills. After making the switch, I've worked on different software across different fields. I've worked with GIS software, healthcare systems, and space defense projects. I love to program and solve any challenge. 
 
 ### Features
 
-* I have a computer science degree from Utah State University
-* I'm interested in Machine Learning and Computer Vision
-* I'm currently a software test engineer at Space Dynamics Laboratory
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+* B.S. degree in Computer Science from Utah State University
+* Currently a Software Test Engineer at Space Dynamics Lab
+* Strengths in data engineering, project management, and software development
+* Additional strengths in software verification, software testing, quality assurance 
+* Interested in machine learning, computer vision, and cloud development
+
